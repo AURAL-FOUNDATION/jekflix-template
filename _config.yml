@@ -55,7 +55,7 @@ collections:
 paginate_path: "/page/:num/"
 
 # Content paginator
-paginate_content: 36
+paginate_content:
   enabled: true
   debug: false
   collections:
