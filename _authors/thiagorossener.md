@@ -1,15 +1,15 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
+photo: "/assets/img/uploads/profile.png"
+name: rangeaudio
+display_name: rangeaud.io
 position: Chief Editor
 bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
-linkedin_username: thiagorossener
-medium_username: thiagorossener
----
+github_username: rangeaud.io
+facebook_username: rangeaud.io
+twitter_username: rangeaud.io
+instagram_username: rangeaud.io
+linkedin_username: rangeaud.io
+medium_username: rangeaud.io
 
+---
