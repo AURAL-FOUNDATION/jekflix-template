@@ -15,10 +15,10 @@ tags:
 author: ''
 
 ---
-DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA 
-
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/238878999&color=%2300ff1d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 
 <a class="gumroad-button" href="https://gum.co/lxsxdxvol1">Buy my product</a>
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/238878999&color=%2300ff1d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
