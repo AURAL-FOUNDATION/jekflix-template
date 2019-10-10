@@ -1,11 +1,11 @@
 ---
-date: 2019-10-09 05:00:00 +0000
+date: 2019-10-09T05:00:00.000+00:00
 layout: post
 title: LXSXDX vol.I
 subtitle: LXSXDX
 description: ''
 image: ''
-optimized_image: "/lxsxdx vol I.png"
+optimized_image: "/volithumb.png"
 category: ''
 tags:
 - SYNTH LEAD
