@@ -33,6 +33,7 @@ fields:
   name: author
   label: author
 pages:
+- _posts/freebie-timbaland-esque-drumkit.md
 - _posts/2019-10-19-freebie-neptunes-esque-drumkit.md
 - _posts/freebie-jdilla-esque-drumkit.md
 - _posts/00-00-08-00.md
