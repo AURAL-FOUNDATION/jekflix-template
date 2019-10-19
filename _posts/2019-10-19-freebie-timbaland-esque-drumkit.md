@@ -16,4 +16,4 @@ author: DJ G.D.P. & THE ALGORIDDIMS
 
 <div class="gumroad-product-embed" data-gumroad-product-id="fmbpn"><a href="https://gumroad.com/l/fmbpn">Loading...</a></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=NRdHsuuXxfk&list=PLoa2Pqc5B4Kl24CwZ42lkkqUboQditWjK" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLoa2Pqc5B4Kl24CwZ42lkkqUboQditWjK" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
