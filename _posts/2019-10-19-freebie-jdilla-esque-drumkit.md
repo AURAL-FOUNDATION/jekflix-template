@@ -5,7 +5,7 @@ title: 'FREEBIE: JDilla-esque drumkit'
 subtitle: ''
 description: ''
 image: "/ico-1.png"
-optimized_image: "/jdilla-2.png"
+optimized_image: "/jdilla-3.png"
 category: ''
 tags:
 - drumkit
