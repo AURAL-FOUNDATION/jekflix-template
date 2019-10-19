@@ -4,7 +4,7 @@ layout: post
 title: 'FREEBIE: Neptunes-esque drumkit'
 subtitle: ''
 description: ''
-image: ''
+image: "/ico-2.png"
 optimized_image: "/neptunes.jpg"
 category: ''
 tags:
