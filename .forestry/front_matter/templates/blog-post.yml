@@ -33,4 +33,5 @@ fields:
   name: author
   label: author
 pages:
+- _posts/freebie-jdilla-esque-drumkit.md
 - _posts/00-00-08-00.md
