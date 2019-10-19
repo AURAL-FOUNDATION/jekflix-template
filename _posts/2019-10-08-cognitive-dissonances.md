@@ -4,7 +4,7 @@ layout: post
 title: COGNITIVE DISSONANCES
 subtitle: ELEKTRA & THE C.C.
 description: ''
-image: ''
+image: "/ico.png"
 optimized_image: "/cognitivethumb.png"
 category: ''
 tags:
@@ -14,7 +14,6 @@ tags:
 author: ELEKTRA & THE C.C.
 
 ---
-DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA DESCRIPCION DETALLADA
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/415207619&color=%2300ff1d&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
