@@ -4,7 +4,7 @@ layout: post
 title: 'FREEBIE: JDilla-esque drumkit'
 subtitle: ''
 description: ''
-image: ''
+image: "/ico-1.png"
 optimized_image: "/jdilla-2.png"
 category: ''
 tags:
