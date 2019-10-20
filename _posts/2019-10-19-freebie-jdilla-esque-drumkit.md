@@ -8,6 +8,7 @@ image: "/ico-1.png"
 optimized_image: "/jdilla-3.png"
 category: ''
 tags:
+- free
 - drumkit
 author: DJ G.D.P. & THE ALGORIDDIMS
 
