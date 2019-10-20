@@ -5,7 +5,7 @@ title: 'FREEBIE: VINYL DRUMS'
 subtitle: ''
 description: ''
 image: "/ico-4.png"
-optimized_image: "/vinyl.png"
+optimized_image: "/vinyl-1.png"
 category: ''
 tags:
 - free
