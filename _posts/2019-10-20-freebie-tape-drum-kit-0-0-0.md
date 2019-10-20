@@ -10,7 +10,7 @@ category: ''
 tags:
 - drumkit
 - free
-author: ''
+author: DJ G.D.P. & THE ALGORIDDIMS
 
 ---
 <script src="https://gumroad.com/js/gumroad-embed.js"></script>
