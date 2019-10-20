@@ -5,7 +5,7 @@ title: 'FREEBIE: TAPE DRUM KIT 0.3.0'
 subtitle: PERCUSSIONS
 description: ''
 image: "/ico-5.png"
-optimized_image: "/C-Hs.png"
+optimized_image: "/Ps.png"
 category: ''
 tags:
 - drumkit
