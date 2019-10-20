@@ -8,6 +8,7 @@ image: "/ico-2.png"
 optimized_image: "/neptunes.jpg"
 category: ''
 tags:
+- free
 - drumkit
 author: ''
 
