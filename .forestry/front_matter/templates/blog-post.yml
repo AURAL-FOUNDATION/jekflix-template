@@ -33,12 +33,12 @@ fields:
   name: author
   label: author
 pages:
-- _posts/2019-10-20-freebie-tape-drum-kit-0-2-0.md
-- _posts/2019-10-20-freebie-tape-drum-kit-0-1-0.md
+- _posts/00-00-08-00.md
 - _posts/2019-10-20-freebie-tape-drum-kit-0-0-0-1.md
 - _posts/freebie-tape-drum-kit-0-0-0.md
+- _posts/2019-10-20-freebie-tape-drum-kit-0-1-0.md
+- _posts/2019-10-20-freebie-tape-drum-kit-0-2-0.md
 - _posts/freebie-jdilla-esque-drumkit.md
 - _posts/2019-10-19-freebie-neptunes-esque-drumkit.md
 - _posts/2019-10-19-freebie-timbaland-esque-drumkit.md
 - _posts/freebie-vinyl-drums.md
-- _posts/00-00-08-00.md
